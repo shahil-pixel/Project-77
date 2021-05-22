@@ -44,7 +44,7 @@ export default class signUpLoginScreen extends React.Component{
             <View style={styles.container}>
 
           <View>
-            <Text style={styles.title}>Book Santa</Text>
+            <Text style={styles.title}>Barter App</Text>
           </View>
 
            <View>
